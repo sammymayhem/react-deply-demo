@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/react-deply-demo/static/js/main.a6e3311b.chunk.js",
+    "main.js.map": "/react-deply-demo/static/js/main.a6e3311b.chunk.js.map",
+    "runtime-main.js": "/react-deply-demo/static/js/runtime-main.a3db12ba.js",
+    "runtime-main.js.map": "/react-deply-demo/static/js/runtime-main.a3db12ba.js.map",
+    "static/js/2.0025a86e.chunk.js": "/react-deply-demo/static/js/2.0025a86e.chunk.js",
+    "static/js/2.0025a86e.chunk.js.map": "/react-deply-demo/static/js/2.0025a86e.chunk.js.map",
+    "index.html": "/react-deply-demo/index.html",
+    "static/js/2.0025a86e.chunk.js.LICENSE.txt": "/react-deply-demo/static/js/2.0025a86e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a3db12ba.js",
+    "static/js/2.0025a86e.chunk.js",
+    "static/js/main.a6e3311b.chunk.js"
+  ]
+}
